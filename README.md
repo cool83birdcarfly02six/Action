@@ -1,6 +1,6 @@
 
 
-if game.PlaceId == 855499080 then
+if game.PlaceId == 11063612131 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
     elseif game.PlaceId == 662417684 then
@@ -20,14 +20,11 @@ if game.PlaceId == 855499080 then
 
     elseif game.PlaceId == 10950394697 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+    
+        elseif game.PlaceId == 10950541730 then
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
     elseif game.PlaceId == 1962086868 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
-
-    elseif game.PlaceId == 3582763398  then
-    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
-        elseif game.PlaceId == 9992339729  then
-    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
-
 end
