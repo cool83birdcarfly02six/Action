@@ -6,7 +6,7 @@ if game.PlaceId == 11063612131 then
     elseif game.PlaceId == 662417684 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-    elseif game.PlaceId == 4913581664 then
+    elseif game.PlaceId == 621129760 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
     elseif game.PlaceId == 1240123653 then
