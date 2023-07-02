@@ -26,5 +26,8 @@ if game.PlaceId == 11063612131 then
 
     elseif game.PlaceId == 1962086868 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+        elseif game.PlaceId == 155615604 then
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
 end
