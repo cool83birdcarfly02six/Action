@@ -29,5 +29,14 @@ if game.PlaceId == 11063612131 then
 
         elseif game.PlaceId == 155615604 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+            elseif game.PlaceId == 13416514259 then --- Shadow Boxing Battles
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+            elseif game.PlaceId == 13764521698 then --- Shadow Boxing Voice Chats
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+            elseif game.PlaceId == 13963195154 then --- Shadow Boxing 3v3
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
 end
