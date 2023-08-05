@@ -21,13 +21,13 @@ if game.PlaceId == 11063612131 then
     elseif game.PlaceId == 10950394697 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
-        elseif game.PlaceId == 10950541730 then
+        elseif game.PlaceId == 10950541730 then --- All of Us Are Dead
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-    elseif game.PlaceId == 1962086868 then
+    elseif game.PlaceId == 1962086868 then --- Tower of Hell
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-        elseif game.PlaceId == 155615604 then
+        elseif game.PlaceId == 155615604 then --- Prison Life
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
             elseif game.PlaceId == 13416514259 then --- Shadow Boxing Battles
@@ -37,6 +37,9 @@ if game.PlaceId == 11063612131 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
             elseif game.PlaceId == 13963195154 then --- Shadow Boxing 3v3
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+                elseif game.PlaceId == 3351674303 then --- Driving Empire
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
 end
