@@ -41,5 +41,11 @@ if game.PlaceId == 11063612131 then
 
                 elseif game.PlaceId == 3351674303 then --- Driving Empire
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+                    elseif game.PlaceId == 6847090259 then --- Bulked Up City
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+                        elseif game.PlaceId == 11345205287 then --- Bulked Up haloween
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
 end
