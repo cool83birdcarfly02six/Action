@@ -18,7 +18,7 @@ if game.PlaceId == 11063612131 then
     elseif game.PlaceId == 9759729519 then
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-    elseif game.PlaceId == 10950394697 then
+    elseif game.PlaceId == 10950394697 then --- All of Us Are Dead
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
     
         elseif game.PlaceId == 10950541730 then --- All of Us Are Dead
@@ -47,5 +47,7 @@ if game.PlaceId == 11063612131 then
 
                         elseif game.PlaceId == 11345205287 then --- Bulked Up haloween
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
-    
+
+                           elseif game.PlaceId == 891852901 then --- GreenVille
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 end
