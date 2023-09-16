@@ -50,4 +50,7 @@ if game.PlaceId == 11063612131 then
 
                            elseif game.PlaceId == 891852901 then --- GreenVille
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+                               elseif game.PlaceId == 13772394625 then --- Blade Ball
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 end
