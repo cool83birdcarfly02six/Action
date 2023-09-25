@@ -53,4 +53,7 @@ if game.PlaceId == 11063612131 then
 
                                elseif game.PlaceId == 13772394625 then --- Blade Ball
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+                               elseif game.PlaceId == 14732610803 then --- Blade Ball pro
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 end
