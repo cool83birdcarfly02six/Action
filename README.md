@@ -27,33 +27,36 @@ if game.PlaceId == 11063612131 then
     elseif game.PlaceId == 1962086868 then --- Tower of Hell
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-        elseif game.PlaceId == 155615604 then --- Prison Life
+    elseif game.PlaceId == 155615604 then --- Prison Life
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-            elseif game.PlaceId == 13416514259 then --- Shadow Boxing Battles
+    elseif game.PlaceId == 13416514259 then --- Shadow Boxing Battles
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-            elseif game.PlaceId == 13764521698 then --- Shadow Boxing Voice Chats
+    elseif game.PlaceId == 13764521698 then --- Shadow Boxing Voice Chats
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-            elseif game.PlaceId == 13963195154 then --- Shadow Boxing 3v3
+    elseif game.PlaceId == 13963195154 then --- Shadow Boxing 3v3
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                elseif game.PlaceId == 3351674303 then --- Driving Empire
+    elseif game.PlaceId == 3351674303 then --- Driving Empire
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                    elseif game.PlaceId == 6847090259 then --- Bulked Up City
+    elseif game.PlaceId == 6847090259 then --- Bulked Up City
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                        elseif game.PlaceId == 11345205287 then --- Bulked Up haloween
+    elseif game.PlaceId == 11345205287 then --- Bulked Up haloween
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                           elseif game.PlaceId == 891852901 then --- GreenVille
+    elseif game.PlaceId == 891852901 then --- GreenVille
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                               elseif game.PlaceId == 13772394625 then --- Blade Ball
+    elseif game.PlaceId == 13772394625 then --- Blade Ball
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 
-                               elseif game.PlaceId == 14732610803 then --- Blade Ball pro
+    elseif game.PlaceId == 14732610803 then --- Blade Ball pro
+    game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
+
+    elseif game.PlaceId == 10449761463 then --- The Strongest Battlegrounds
     game.CoreGui.loader123.Frame.keepthis.BackgroundTransparency = 1
 end
